@@ -71,13 +71,13 @@ Steps:
 
 #2.	Download Node.js.
 
-#3. Install dependencies (only the first time)
+#3. Install dependencies (only the first time):
 npm install
 
-#4. Run the local server at localhost:8080
+#4. Run the local server at localhost:8080:
 npm run dev
 
-#5. Build for production in the dist/ directory
+#5. Build for production in the dist/ directory:
 npm run build
 
 
