@@ -67,11 +67,18 @@ The rudimentary engine of the xConnect VR module is already available here on gi
 
 Steps:
 
-1.	Download repository .zip file
-2.	Download Node.js.
-3.	Run this followed commands:
+#1.	Download repository .zip file
+
+#2.	Download Node.js.
+
+#3. Install dependencies (only the first time)
 npm install
+
+#4. Run the local server at localhost:8080
 npm run dev
+
+#5. Build for production in the dist/ directory
+npm run build
 
 
 
