@@ -2,7 +2,7 @@
 Community Platform for XRPL Projects which enables to build the communities around the Projects in an easy way
 
 
-#What is the xConnect Global Platform? 
+What is the xConnect Global Platform? 
 
 xConnect Platform will serve the people as the XRPL Projects Hub where the most important information about all the XRPL Projects are aggregated, validated and summarized.
 
