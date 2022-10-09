@@ -2,11 +2,11 @@
 Community Platform for XRPL Projects which enables to build the communities around the Projects in an easy way
 
 
-What is the xConnect Global Platform? 
+#What is the xConnect Global Platform? 
 
 xConnect Platform will serve the people as the XRPL Projects Hub where the most important information about all the XRPL Projects are aggregated, validated and summarized.
 
-What is the main goal of the xConnect Global Platform? 
+#What is the main goal of the xConnect Global Platform? 
 
 To enable searching, exploring and learning about all XRPL Projects in an easy and reliable way. This is especially important for new people coming into the XRPL space.
 
@@ -41,21 +41,25 @@ xConnect Blackboard feature Blackboard feature where differnet people from aroun
 
 ![layout_page04 (light)](https://user-images.githubusercontent.com/61139827/194757893-6243fce6-9f41-4319-902b-eee59a02b544.jpg)
 
-What problems will xConnect solve?
+#What problems will xConnect solve?
 
 Focus FCX project has been in existence since over one year. During this time we discovered that the communication is real barrier and problematic entry threshold for thousands of people. English language is undeed worldwide known, however many people do not properly understand it.
 Especially from Asia or Africa region, even in Europe people have some difficulties to understand messages in English. We could expand the east site of the world because we gained few excellent ambassadors who were able to communicate information about Focus FCX in their native language. We know that there is huge potential locked in the community and thanks xConnect Platform it can be unlocked.
 
-xConnect - Summary & Key Points
+#xConnect - Summary & Key Points
 •	Global Platform to aggregate and show key infromation about the projects built on XRPL
 •	Tool for XRPL Projects to build up their global communities ising dedicated "page builder" and by having access to the worldwide ambassadors database.
 •	Clobal community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
 The rudimentary engine of the xConnect VR module is already available here on github.
-Steps:
+
+
+#Steps:
 1.	Download repository .zip file
 2.	Download Node.js.
 3.	Run this followed commands:
 npm install
 npm run dev
+
+
 
 
