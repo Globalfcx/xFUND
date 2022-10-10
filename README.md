@@ -63,7 +63,7 @@ xConnect - Summary & Key Points
 
 •	Tool for XRPL Projects to build up their global communities using dedicated "page builder" and by having access to the worldwide ambassadors database.
 
-•	Clobal community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
+•	Global community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
 
 
 The rudimentary engine of the xConnect VR module is already available here on github.
