@@ -60,8 +60,11 @@ Especially from Asia or Africa region, even in Europe people have some difficult
 xConnect - Summary & Key Points
 
 •	Global Platform to aggregate and show key information about the projects built on XRPL
+
 •	Tool for XRPL Projects to build up their global communities using dedicated "page builder" and by having access to the worldwide ambassadors database.
+
 •	Clobal community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
+
 
 The rudimentary engine of the xConnect VR module is already available here on github.
 
