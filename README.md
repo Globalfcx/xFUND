@@ -95,5 +95,6 @@ Nagivation on the site:
 4. You can click on dots on each planet to get more infos about project
 5. You can go back by clicking (double click) the background
 
-Focus xConnect video presentation is available as a separate file here on Github
+Focus xConnect video presentation is available here:
+https://drive.google.com/file/d/1Cu0Ja7s-RO-H4VTZ7jCPiv4rpDv9YX_W/view?usp=sharing
 
