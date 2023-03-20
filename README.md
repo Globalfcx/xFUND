@@ -10,6 +10,8 @@ To unlock the value of the community and allow to tokenize it on XRPL
 
 
 
+
+
 xTokenize - Summary & Key Points
 
 •	Unlocking the community value by tokenization
@@ -19,6 +21,7 @@ xTokenize - Summary & Key Points
 •	Tool for XRPL Projects to build up their global communities using dedicated "page builder" and by having access to the worldwide ambassadors database.
 
 •	Global community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
+
 
 
 
@@ -60,22 +63,18 @@ npm run build
 
 
 Deployment:
-https://planet-system.vercel.app/
+https://spinning-planet-eight.vercel.app/
 
 Nagivation on the site:
 1. You can zoom in/zoom out
 2. You can select the planet by double click
 3. You can turn the planet 3D model by simple click, hold and move the mouse
-4. You can click on dots on each planet to get more infos about project
-5. You can go back by clicking (double click) the background
+4. You can go back by clicking (double click) the background
 
-Focus xConnect video presentation is available here:
-
-https://drive.google.com/file/d/1Cu0Ja7s-RO-H4VTZ7jCPiv4rpDv9YX_W/view?usp=sharing
 
 Working Prototype is available here: 
+XD
 
-https://xd.adobe.com/view/4f187ce8-c64c-436c-85c8-0a109ff802c9-1a4b/?fullscreen&hints=off
 
 
 
