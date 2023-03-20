@@ -23,15 +23,16 @@ xTokenize - Summary & Key Points
 •	Global community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
 
 
+Custom settings will be loaded for the personal account.
+
+![layout_page05 A xxx](https://user-images.githubusercontent.com/61139827/194757874-7892a4c8-656a-4bfe-b63d-e252d19395bc.jpg)
 
 
 The content for each project will be displayed as a "one pager"
 
 ![layout_page02 (light)](https://user-images.githubusercontent.com/61139827/194757840-0a6ed23e-2166-4c9a-a628-f45571494264.jpg)
 
-Custom settings will be loaded for the personal account.
 
-![layout_page05 A xxx](https://user-images.githubusercontent.com/61139827/194757874-7892a4c8-656a-4bfe-b63d-e252d19395bc.jpg)
 
 xTokenize Blackboard feature where differnet people from around the world can join various XRPL Projects to help building the global community and serve as ambassadors / supporters to build up local communities around the specific XRPL project.
 
