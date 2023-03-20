@@ -1,9 +1,9 @@
 # xTokenize
-xTokenize is a platform for tokenizing the value that the community holds. By combining NFTs on the XRPL, we will be able to add value to the community that we have built on the XRPL network.
+xTokenize is a platform for tokenizing the value of the community. By combining NFTs on the XRPL, we will be able to add value to the community that we have built on the XRPL network.
 
 The xTokenize Platform will also serve as the XRPL Projects Hub, where the most important information about all XRPL projects is aggregated, validated, and summarized.
 
-What is the main goal of the xConnect Global Platform?
+What is the main goal of the xTokenize Global Platform?
 
 To unlock the value of the community and allow it to be tokenized on the XRPL.
 
