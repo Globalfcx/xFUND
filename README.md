@@ -8,6 +8,8 @@ What is the main goal of the xConnect Global Platform?
 
 To unlock the value of the community and allow to tokenize it on XRPL 
 
+
+
 xTokenize - Summary & Key Points
 
 •	Unlocking the community value by tokenization
@@ -17,6 +19,7 @@ xTokenize - Summary & Key Points
 •	Tool for XRPL Projects to build up their global communities using dedicated "page builder" and by having access to the worldwide ambassadors database.
 
 •	Global community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
+
 
 
 The content for each project will be displayed as a "one pager"
