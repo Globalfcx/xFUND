@@ -10,15 +10,12 @@ To unlock the value of the community and allow to tokenize it on XRPL
 
 
 
-
-![layout_page03(light)](https://user-images.githubusercontent.com/61139827/194757771-8e6a4f3c-8204-4ae2-adc7-877bea57b52d.jpg)
-
-Interactive journey using VR feature for amazing User Experience. Filtered information will be accessible from "comfy couch".
+The content for each project will be displayed as a "one pager"
 
 
 ![layout_page03-zoom](https://user-images.githubusercontent.com/61139827/194757814-f3b3ec64-b2e3-4dfe-aefe-0c7bbb494f53.jpg)
 
--Display Content for each project,  the goal is to be almost "one pager"
+
 
 
 ![layout_page02 (light)](https://user-images.githubusercontent.com/61139827/194757840-0a6ed23e-2166-4c9a-a628-f45571494264.jpg)
