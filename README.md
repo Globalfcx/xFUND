@@ -11,15 +11,10 @@ To unlock the value of the community and allow to tokenize it on XRPL
 
 
 The content for each project will be displayed as a "one pager"
+
 ![layout_page02 (light)](https://user-images.githubusercontent.com/61139827/194757840-0a6ed23e-2166-4c9a-a628-f45571494264.jpg)
 
-xConnect Platform : Personal account Using "connect with XUMM" option every user will be able to connect the wallet to personal account, where all favorites will be saved.
-
-
-![layout_page05 B xx](https://user-images.githubusercontent.com/61139827/194757856-b4b7ee5b-3eca-472a-9c33-87c728b50527.jpg)
-
 Custom settings will be loaded for the personal account.
-
 
 ![layout_page05 A xxx](https://user-images.githubusercontent.com/61139827/194757874-7892a4c8-656a-4bfe-b63d-e252d19395bc.jpg)
 
