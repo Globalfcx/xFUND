@@ -22,22 +22,15 @@ xTokenize - Summary & Key Points
 
 •	Global community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
 
+•	Custom settings will be loaded for the personal account.
 
-Custom settings will be loaded for the personal account.
+•	The content for each project will be displayed as a "one pager"
 
-![layout_page05 A xxx](https://user-images.githubusercontent.com/61139827/194757874-7892a4c8-656a-4bfe-b63d-e252d19395bc.jpg)
-
-
-The content for each project will be displayed as a "one pager"
-
-![layout_page02 (light)](https://user-images.githubusercontent.com/61139827/194757840-0a6ed23e-2166-4c9a-a628-f45571494264.jpg)
+•	xTokenize Blackboard feature where differnet people from around the world can join various XRPL Projects to help building the global community and serve as ambassadors / supporters to build up local communities around the specific XRPL project.
 
 
 
-xTokenize Blackboard feature where differnet people from around the world can join various XRPL Projects to help building the global community and serve as ambassadors / supporters to build up local communities around the specific XRPL project.
 
-
-![layout_page04 (light)](https://user-images.githubusercontent.com/61139827/194757893-6243fce6-9f41-4319-902b-eee59a02b544.jpg)
 
 What problems will xTokenize solve?
 
@@ -63,6 +56,10 @@ npm run dev
 npm run build
 
 
+
+Working Prototype is available here: 
+XD
+
 Deployment:
 https://spinning-planet-eight.vercel.app/
 
@@ -71,11 +68,6 @@ Nagivation on the site:
 2. You can select the planet by double click
 3. You can turn the planet 3D model by simple click, hold and move the mouse
 4. You can go back by clicking (double click) the background
-
-
-Working Prototype is available here: 
-XD
-
 
 
 
