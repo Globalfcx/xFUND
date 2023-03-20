@@ -1,42 +1,31 @@
 # xTokenize
-xTokenize is a platform for tokenizing the value that the community has. 
-By combining NFT on XRPL, we will be able to add value to the community we have built to the XRPL network.
+xTokenize is a platform for tokenizing the value that the community holds. By combining NFTs on the XRPL, we will be able to add value to the community that we have built on the XRPL network.
 
-xTokenize Platform will also serve the people as the XRPL Projects Hub where the most important information about all the XRPL Projects are aggregated, validated and summarized.
+The xTokenize Platform will also serve as the XRPL Projects Hub, where the most important information about all XRPL projects is aggregated, validated, and summarized.
 
 What is the main goal of the xConnect Global Platform?
 
-To unlock the value of the community and allow to tokenize it on XRPL 
-
-
-
-
+To unlock the value of the community and allow it to be tokenized on the XRPL.
 
 xTokenize - Summary & Key Points
 
-•	Unlocking the community value by tokenization
+• Unlocking community value by tokenization
 
-•	Aggregating the key information about the projects built on XRPL 
+• Aggregating key information about projects built on the XRPL
 
-•	Tool for XRPL Projects to build up their global communities using dedicated "page builder" and by having access to the worldwide ambassadors database.
+• A tool for XRPL Projects to build their global communities using a dedicated "page builder" and by having access to the worldwide ambassadors database.
 
-•	Global community Hub and database about XRPL projects. Especially new people will gain the knowledge about XRPL and projects built there in an easy way.
+• Global community Hub and database about XRPL projects. Newcomers will gain knowledge about XRPL and projects built there in an easy way.
 
-•	Custom settings will be loaded for the personal account.
+• Custom settings will be loaded for each personal account.
 
-•	The content for each project will be displayed as a "one pager"
+• The content for each project will be displayed as a "one-pager."
 
-•	xTokenize Blackboard feature where differnet people from around the world can join various XRPL Projects to help building the global community and serve as ambassadors / supporters to build up local communities around the specific XRPL project.
-
-
-
-
+• xTokenize Blackboard feature, where people from around the world can join various XRPL Projects to help build the global community and serve as ambassadors/supporters to build up local communities around the specific XRPL project.
 
 What problems will xTokenize solve?
 
-
-Focus FCX project has been in existence since over one year. During this time we discovered that the communication is real barrier and problematic entry threshold for thousands of people. English language is indeed worldwide known, however many people do not properly understand it.
-Especially from Asia or Africa region, even in Europe people have some difficulties to understand messages in English. We could expand the east site of the world because we gained few excellent ambassadors who were able to communicate information about Focus FCX in their native language. We know that there is huge potential locked in the community and thanks xTokenize Platform it can be unlocked.
+The Focus FCX project has been in existence for over a year. During this time, we discovered that communication is a real barrier and problematic entry threshold for thousands of people. English is a widely known language worldwide, but many people do not properly understand it. Especially in the Asia or Africa region, and even in Europe, people have some difficulties understanding messages in English. We were able to expand the east side of the world because we gained a few excellent ambassadors who were able to communicate information about Focus FCX in their native language. We know that there is huge potential locked in the community, and thanks to the xTokenize Platform, it can be unlocked."
 
 
 
