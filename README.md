@@ -50,7 +50,7 @@ Working Prototype is available here:
 
 https://xd.adobe.com/view/34cf1e2a-7e12-4aac-bdf9-8fa6fdad17f6-619c/screen/36b55041-5d51-4179-b8ed-b9c32121f50f?fullscreen
 
-Deployment:
+Virtual Model Deployment:
 https://spinning-planet-eight.vercel.app/
 
 Nagivation on the site:
