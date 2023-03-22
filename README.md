@@ -48,7 +48,7 @@ npm run build
 
 Working Prototype is available here:
 
-https://xd.adobe.com/view/34cf1e2a-7e12-4aac-bdf9-8fa6fdad17f6-619c/screen/36b55041-5d51-4179-b8ed-b9c32121f50f?fullscreen
+https://xd.adobe.com/view/45963ae0-bcae-4b7c-9da2-c1db54405520-10c5/?fullscreen
 
 Virtual Model Deployment:
 https://spinning-planet-eight.vercel.app/
