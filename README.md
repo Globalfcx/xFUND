@@ -29,20 +29,15 @@ A crowdfunding platform built on XRP Ledger is a great way for new projects to r
 
 Steps:
 
-#1.	Download repository .zip file
+Download Node.js. Run this followed commands:
 
-#2.	Download Node.js.
-
-#3. Install dependencies (only the first time):
+# Install dependencies (only the first time)
 npm install
 
-#4. Run the local server at localhost:8080:
+# Run the local server at localhost:8080
 npm run dev
 
-#5. Build for production in the dist/ directory:
+# Build for production in the dist/ directory
 npm run build
-
-
-
 
 
