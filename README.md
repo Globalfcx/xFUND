@@ -1,4 +1,5 @@
-# xTokenize
+# xFund
+
 xTokenize is a platform for tokenizing the value of the community. By combining NFTs on the XRPL, we will be able to add value to the community that we have built on the XRPL network.
 
 The xTokenize Platform will also serve as the XRPL Projects Hub, where the most important information about all XRPL projects is aggregated, validated, and summarized.
