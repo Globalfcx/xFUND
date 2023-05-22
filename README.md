@@ -7,7 +7,7 @@ What is the main goal of the xFund Platform?
 
 To help the projects to be funded. It will allow the new capital to flow into XRPL.
 
-xTokenize - Summary & Key Points
+xFund- Summary & Key Points
 
 • Unlocking community value by tokenization
 
