@@ -1,6 +1,6 @@
 # xFund
 
-xFund - Summary
+Summary
 
 A crowdfunding platform built on XRP Ledger is a decentralized platform that allows users to raise funds for new projects. The platform is built on the XRP Ledger, which is a fast, scalable, and secure blockchain. This makes it a great platform for crowdfunding, as it allows users to raise funds quickly and easily.
 
