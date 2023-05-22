@@ -2,30 +2,32 @@
 
 Summary
 
-A crowdfunding platform built on XRP Ledger is a decentralized platform that allows users to raise funds for new projects. The platform is built on the XRP Ledger, which is a fast, scalable, and secure blockchain. This makes it a great platform for crowdfunding, as it allows users to raise funds quickly and easily.
+This crowdfunding platform is a decentralized application (DApp) that is built on the XRP Ledger. It allows users to create and fund projects, and to receive payments in XRP. The platform is connected to the Xumm wallet API, which allows users to easily deposit and withdraw XRP from their wallets. The platform also uses Global ID for ID verification, which helps to ensure that the users on the platform are who they say they are.
 
 Key Points
 
-The platform is decentralized, which means that it is not controlled by any one entity. This makes it more secure and transparent than traditional crowdfunding platforms.
-The platform is built on the XRP Ledger, which is a fast, scalable, and secure blockchain. This makes it a great platform for crowdfunding, as it allows users to raise funds quickly and easily.
-The platform is easy to use and navigate. This makes it accessible to a wide range of users.
-The platform is secure. All transactions are verified on the blockchain, which makes them tamper-proof.
-Benefits of using a crowdfunding platform built on XRP Ledger
+Decentralized: The platform is built on the XRP Ledger, which is a decentralized blockchain. This means that the platform is not controlled by any one entity, and it is not subject to censorship.
+Easy to use: The platform is designed to be easy to use for both project creators and backers. Project creators can create a project in just a few minutes, and backers can fund projects with just a few clicks.
+Secure: The platform uses Global ID for ID verification, which helps to ensure that the users on the platform are who they say they are. This helps to protect both project creators and backers from fraud.
+Benefits for new projects
 
-There are many benefits to using a crowdfunding platform built on XRP Ledger. Some of the benefits include:
+The crowdfunding platform provides a number of benefits for new projects, including:
 
-Fast and easy to use: The platform is easy to use and navigate, making it accessible to a wide range of users.
-Secure: All transactions are verified on the blockchain, which makes them tamper-proof.
-Global reach: The platform is global, which means that projects can raise funds from anywhere in the world.
-Low fees: The platform has low fees, which makes it more affordable for projects to raise funds.
-Transparency: All transactions are public, which makes the platform transparent and accountable.
-How to use a crowdfunding platform built on XRP Ledger
+Access to a large pool of potential backers: The platform has a large user base, which means that projects have access to a large pool of potential backers.
+Reduced risk of fraud: The platform uses Global ID for ID verification, which helps to reduce the risk of fraud.
+Increased transparency: The platform is transparent, which means that project creators and backers can see all of the information about a project, including the project's goals, timeline, and budget.
+How it works
 
-To use a crowdfunding platform built on XRP Ledger, you will need to create an account and deposit XRP into your account. Once you have deposited XRP, you can start creating projects. To create a project, you will need to provide information about your project, such as the name of your project, the goal of your project, and the timeline for your project. You will also need to set a funding goal. Once you have created your project, you can start promoting it to potential investors. When you have raised enough funds, your project will be funded and you can start working on your project.
+The crowdfunding platform works as follows:
+
+Project creators create a project on the platform.
+Backers fund the project by sending XRP to the project's address.
+Once the project reaches its funding goal, the XRP is sent to the project creator.
+The project creator uses the XRP to fund their project.
 
 Conclusion
 
-A crowdfunding platform built on XRP Ledger is a great way for new projects to raise funds. The platform is decentralized, secure, and easy to use. If you are looking to raise funds for a new project, then a crowdfunding platform built on XRP Ledger is a great option.
+The crowdfunding platform is a valuable tool for new projects that are looking to raise funds. The platform is decentralized, easy to use, secure, and provides a number of benefits for new projects.
 
 Steps:
 
