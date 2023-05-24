@@ -18,10 +18,10 @@ To get started, please follow these steps:
 
 Please follow these guidelines when contributing to the project:
 
-Use the same coding style as the rest of the project.
-Write unit tests for your changes.
-Document your changes.
-Be respectful of other contributors.
+- Use the same coding style as the rest of the project.
+- Write unit tests for your changes.
+- Document your changes.
+- Be respectful of other contributors.
 
 **Issues**
 
