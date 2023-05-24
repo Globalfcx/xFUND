@@ -4,18 +4,18 @@ This file contains instructions on how to configure the  `functions.py ` file.
 
 **Prerequisites**
 
--You will need to have the following installed:
+***You will need to have the following installed:***
 
--Python 3.6 or higher
-The requests library
-The json library
-You will also need to have an Xumm wallet and a Global ID API key.
+- Python 3.6 or higher
+- The requests library
+- The json library
+- You will also need to have an Xumm wallet and a Global ID API key.
 
 **Configuring the** `functions.py` **file**
 
-Open the functions.py file in a text editor.
-In the XUM_WALLET_API_URL variable, replace YOUR_XUM_WALLET_API_KEY with your Xumm wallet API key.
-In the GLOBAL_ID_API_URL variable, replace YOUR_GLOBAL_ID_API_KEY with your Global ID API key.
+Open the `functions.py` file in a text editor.
+In the `XUM_WALLET_API_URL` variable, replace `YOUR_XUM_WALLET_API_KEY` with your Xumm wallet API key.
+In the `GLOBAL_ID_API_URL` variable, replace `YOUR_GLOBAL_ID_API_KEY` with your Global ID API key.
 Save the file.
 
 **Running the** `functions.py` **file**
