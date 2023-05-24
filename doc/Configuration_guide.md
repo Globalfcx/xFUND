@@ -20,12 +20,13 @@ Save the file.
 
 **Running the** `functions.py` **file**
 
-Open a terminal window.
-Navigate to the directory where the functions.py file is located.
-Run the following command:
-python functions.py
+1. Open a terminal window.
+2. Navigate to the directory where the functions.py file is located.
+3. Run the following command:
 
-The functions.py file will create a new fundraising campaign, get the current balance of the fundraising campaign, donate to the fundraising campaign, get the list of donors to the fundraising campaign, verify the ID of a donor, and create a new user.
+`python functions.py`
+
+The `functions.py` file will create a new fundraising campaign, get the current balance of the fundraising campaign, donate to the fundraising campaign, get the list of donors to the fundraising campaign, verify the ID of a donor, and create a new user.
 
 **Troubleshooting**
 
