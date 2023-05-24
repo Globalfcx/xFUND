@@ -1,6 +1,6 @@
 ##Configuration Guide
 
-This file contains instructions on how to configure the functions.py file.
+This file contains instructions on how to configure the  `functions.py ` file.
 
 Prerequisites
 You will need to have the following installed:
