@@ -25,3 +25,5 @@ yarn.lock
 # Ignore dependency directories
 node_modules/
 venv/
+
+# Ignore dependacny directories
