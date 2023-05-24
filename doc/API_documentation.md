@@ -1,13 +1,13 @@
 This API provides a way to interact with the Xumm and Global ID APIs.
 
-#Endpoints
-      ##/campaigns
-            ##Create a new fundraising campaign.
-           ##Parameters:
-                  ##name: The name of the campaign.
-                  ##description: The description of the campaign.
-                  ##goal: The goal amount of the campaign.
-                  ##duration: The duration of the campaign in days.
+Endpoints
+>/campaigns
+>>Create a new fundraising campaign.
+>>Parameters:
+>>name: The name of the campaign.
+>>description: The description of the campaign.
+>>goal: The goal amount of the campaign.
+>>duration: The duration of the campaign in days.
 Response:
 id: The ID of the campaign.
 name: The name of the campaign.
