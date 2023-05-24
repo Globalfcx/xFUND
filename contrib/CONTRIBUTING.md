@@ -27,12 +27,13 @@ Please follow these guidelines when contributing to the project:
 
 If you find a bug or have an improvement suggestion, please open an issue on the GitHub repository.
 
-Pull Requests
+**Pull Requests**
+
 When submitting a pull request, please ensure that:
 
-Your changes are well-tested.
-Your changes are documented.
-Your changes are formatted according to the project's coding style.
+- Your changes are well-tested.
+- Your changes are documented.
+- Your changes are formatted according to the project's coding style.
 
 **Thank You!**
 
