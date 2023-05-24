@@ -94,3 +94,7 @@ def create_user(name, email, password):
     if response.status_code == 200:
         user = response.json()
         return
+
+    
+    
+    return data == {
