@@ -13,9 +13,9 @@ Benefits for new projects
 
 ### The crowdfunding platform provides a number of benefits for new projects, including:
 
-Access to a large pool of potential backers: The platform has a large user base, which means that projects have access to a large pool of potential backers.
-Reduced risk of fraud: The platform uses Global ID for ID verification, which helps to reduce the risk of fraud.
-Increased transparency: The platform is transparent, which means that project creators and backers can see all of the information about a project, including the project's goals, timeline, and budget.
+- **`Access to a large pool of potential backers:`** The platform has a large user base, which means that projects have access to a large pool of potential backers.
+- **`Reduced risk of fraud:`** The platform uses Global ID for ID verification, which helps to reduce the risk of fraud.
+- **`Increased transparency:`** The platform is transparent, which means that project creators and backers can see all of the information about a project, including the project's goals, timeline, and budget.
 How it works
 
 ### The crowdfunding platform works as follows:
@@ -31,15 +31,15 @@ The crowdfunding platform is a valuable tool for new projects that are looking t
 
 ## Steps:
 
-Download Node.js. Run this followed commands:
+- **`Download Node.js`** Run this followed commands:
 
-Install dependencies (only the first time)
-npm install
+- **`Install`** dependencies (only the first time)
+`npm install`
 
-Run the local server at localhost:8080
-npm run dev
+- **`Run`** the local server at localhost:8080
+`npm run dev`
 
-Build for production in the dist/ directory
-npm run build
+- **`Build`** for production in the dist/ directory
+`npm run build`
 
 
