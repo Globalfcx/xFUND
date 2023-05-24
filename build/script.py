@@ -94,20 +94,3 @@ def create_user(name, email, password):
     if response.status_code == 200:
         user = response.json()
         return
-
-    
-    # Get the list of donors to the fundraising campaign
-def get_donors(campaign_id):
-    url = XUM_WALLET_API_URL + "/campaigns/" + campaign_id + "/donors"
-    headers = {
-        "Authorization": "Bearer YOUR_XUM_WALLET_API_KEY"
-    }
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        donors = response.json()
-        return donors
-    else:
-        raise Exception("Could not get donors")
-        
-        return
-    user = response.json
