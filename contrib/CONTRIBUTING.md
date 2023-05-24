@@ -1,17 +1,18 @@
 ## CONTRIBUTING ##
 
-Welcome to the Xumm Fundraising Campaigns project! We are excited to have you as a contributor.
+Welcome to the xFUNG Fundraising Campaigns project build on XRPL! 
+We are excited to have you as a contributor.
 
 **Getting Started**
 
 To get started, please follow these steps:
 
-Fork the repository to your own account.
-Clone your fork to your local machine.
-Create a new branch for your changes.
-Make your changes and commit them to your branch.
-Push your changes to your remote branch.
-Open a pull request against the original repository.
+1. Fork the repository to your own account.
+2. Clone your fork to your local machine.
+3. Create a new branch for your changes.
+4. Make your changes and commit them to your branch.
+5. Push your changes to your remote branch.
+6. Open a pull request against the original repository.
 
 **Guidelines**
 
