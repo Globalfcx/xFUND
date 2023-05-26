@@ -3,7 +3,7 @@ import requests
 # Create the request object
 url = "https://api.xumm.io/v1/campaigns"
 headers = {
-    "Authorization": "Bearer YOUR_API_KEY"
+    "Authorization": "Bearer 40101See-7edc-4469-bdfd-3af11d229885"
 }
 data = {
     "name": "My Campaign",
