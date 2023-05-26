@@ -102,7 +102,7 @@ Create a new user.
 
 ## Authentication
 
-All requests to the API require authentication. The authentication header must be set to `Bearer YOUR_API_KEY`.
+All requests to the API require authentication. The authentication header must be set to `Bearer 40101See-7edc-4469-bdfd-3af11d229885`.
 
 ## Error Handling
 
