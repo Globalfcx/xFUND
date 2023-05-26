@@ -14,8 +14,8 @@ This file contains instructions on how to configure the  `functions.py ` file.
 **Configuring the** `functions.py` **file**
 
 1. Open the `functions.py` file in a text editor.
-2. In the `XUM_WALLET_API_URL` variable, replace `40101See-7edc-4469-bdfd-3af11d229885` with your Xumm wallet API key.
-3. In the `GLOBAL_ID_API_URL` variable, replace `clpltev3dlrslfil5xd7vvd819dgd4` with your Global ID API key.
+2. In the `XUM_WALLET_API_URL` variable, replace `YOUR_XUM_WALLET_API_KEY` with your Xumm wallet API key.
+3. In the `GLOBAL_ID_API_URL` variable, replace `YOUR_GLOBAL_ID_API_KEY` with your Global ID API key.
 4. Save the file.
 
 **Running the** `functions.py` **file**
