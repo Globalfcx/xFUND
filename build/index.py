@@ -70,7 +70,7 @@ def get_donors(campaign_id):
 def verify_donor_id(donor_id):
     url = GLOBAL_ID_API_URL + "/verify/" + donor_id
     headers = {
-        "Authorization": "Bearer 40101See-7edc-4469-bdfd-3af11d229885"
+        "Authorization": "Bearer clpltev3dlrslfil5xd7vvd819dgd4"
     }
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
