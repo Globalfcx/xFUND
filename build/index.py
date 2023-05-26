@@ -87,10 +87,3 @@ def create_user(name, email, password):
     }
     data = {
         "name": name,
-        "email": email,
-        "password": password
-    }
-    response = requests.post(url, headers=headers, data=json.dumps(data))
-    if response.status_code == 200:
-        user = response.json()
-        return
