@@ -3,8 +3,8 @@ LOGO full colour
 
 
 LOGO black
-![xFund_black](https://github.com/Globalfcx/xFUND/assets/61139827/012ecf51-dc8f-49f5-980a-ee73ba3323f6)
+![xFund_black](https://github.com/Globalfcx/xFUND/assets/61139827/bbf30ec0-4279-4930-a40a-cb37e380c4c1)
 
 
 LOGO white
-![xFund_white](https://github.com/Globalfcx/xFUND/assets/61139827/b5972283-b413-428c-b49a-e2c8c55b9af3)
+![xFund_white](https://github.com/Globalfcx/xFUND/assets/61139827/e4fab1ec-e66d-44c5-8e13-12a04bcda7d4)
