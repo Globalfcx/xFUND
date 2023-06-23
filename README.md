@@ -42,4 +42,9 @@ The crowdfunding platform is a valuable tool for new projects that are looking t
 - **`Build`** for production in the dist/ directory
 `npm run build`
 
+## Working Prototype is available here:
+
+https://xd.adobe.com/view/17fc534f-3291-4078-960f-b51d560c3dd8-42af/?fbclid=IwAR3gS28co9vMH-cAxUagfcVYZdDHrLxD0UmACCfW21rXITLeTngtPuziCLE&fullscreen
+
+
 
