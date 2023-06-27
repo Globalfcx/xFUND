@@ -1,10 +1,10 @@
 ## xFund
 
-## Summary
+### Summary
 
 This crowdfunding platform is a decentralized application (DApp) that is built on the XRP Ledger. It allows users to create and fund projects, and to receive payments in XRP. The platform is connected to the Xumm wallet API, which allows users to easily deposit and withdraw XRP from their wallets. The platform also uses Global ID for ID verification, which helps to ensure that the users on the platform are who they say they are.
 
-## Key Points
+### Key Points
 
 - **`Decentralized:`** The platform is built on the XRP Ledger, which is a decentralized blockchain. This means that the platform is not controlled by any one entity, and it is not subject to censorship.
 - **`Easy to use:`** The platform is designed to be easy to use for both project creators and backers. Project creators can create a project in just a few minutes, and backers can fund projects with just a few clicks.
